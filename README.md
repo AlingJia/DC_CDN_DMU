@@ -22,7 +22,7 @@ python test_DC_CDN_DMU.py
 ```
 ## Analysis
 
-```bash lr =0.0001``` gives good results.
+```lr =0.0001``` gives good results.
 When lr is higher, the convergence speed is fast at first, but it will lead to failure to converge to the minimum value.
 When lr is smaller, it will lead to slow convergence.
 
